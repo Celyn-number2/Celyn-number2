@@ -77,11 +77,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-beta-two-42tmk9jpfh.vercel.app/api?username=Celyn-number2&amp;show_icons=true&amp;commits_year=2026&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=F0EEE6&amp;title_color=D97757&amp;text_color=141413&amp;icon_color=D97757&amp;ring_color=D97757&amp;v=3" alt="Celyn-number2's GitHub stats" />
+  <a href="https://github.com/Celyn-number2?tab=repositories">
+    <img width="48%" src="https://raw.githubusercontent.com/Celyn-number2/Celyn-number2/refs/heads/output/github-stats.svg?v=20261017" alt="Celyn-number2's GitHub stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-beta-two-42tmk9jpfh.vercel.app/api/top-langs/?username=Celyn-number2&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=F0EEE6&amp;title_color=D97757&amp;text_color=141413&amp;v=3" alt="Celyn-number2's most used languages" />
+  <a href="https://github.com/Celyn-number2?tab=repositories">
+    <img width="48%" src="https://raw.githubusercontent.com/Celyn-number2/Celyn-number2/refs/heads/output/github-languages.svg?v=20261017" alt="Celyn-number2's most used languages" />
   </a>
 </p>
 
