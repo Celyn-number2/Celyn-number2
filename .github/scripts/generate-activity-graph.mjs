@@ -36,7 +36,7 @@ const response = await fetch("https://api.github.com/graphql", {
   headers: {
     Authorization: `bearer ${token}`,
     "Content-Type": "application/json",
-    "User-Agent": "HP-Patience-profile-readme",
+    "User-Agent": "Celyn-number2-profile-readme",
   },
   body: JSON.stringify({
     query,
