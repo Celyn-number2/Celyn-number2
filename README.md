@@ -78,10 +78,10 @@
 
 <p align="center">
   <a href="https://github.com/Celyn-number2?tab=repositories">
-    <img width="48%" src="https://raw.githubusercontent.com/Celyn-number2/Celyn-number2/refs/heads/output/github-stats.svg?v=20261017" alt="Celyn-number2's GitHub stats" />
+    <img width="48%" src="https://raw.githubusercontent.com/Celyn-number2/Celyn-number2/refs/heads/output/github-stats.svg?v=20261017-celyn" alt="Celyn's GitHub stats" />
   </a>
   <a href="https://github.com/Celyn-number2?tab=repositories">
-    <img width="48%" src="https://raw.githubusercontent.com/Celyn-number2/Celyn-number2/refs/heads/output/github-languages.svg?v=20261017" alt="Celyn-number2's most used languages" />
+    <img width="48%" src="https://raw.githubusercontent.com/Celyn-number2/Celyn-number2/refs/heads/output/github-languages.svg?v=20261017-celyn" alt="Celyn's most used languages" />
   </a>
 </p>
 

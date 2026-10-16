@@ -48,6 +48,6 @@ const langBody = ranked.slice(0, 6).map(([name, bytes], index) => {
   return `<circle cx="29" cy="${y - 4}" r="4" fill="${colors[index]}"/><text x="41" y="${y}" font-size="12" fill="#141413">${escape(name)}</text><rect x="180" y="${y - 10}" width="205" height="8" rx="4" fill="#E3DACC"/><rect x="180" y="${y - 10}" width="${(205 * percent / 100).toFixed(2)}" height="8" rx="4" fill="${colors[index]}"/><text x="452" y="${y}" text-anchor="end" font-size="12" fill="#6B625B">${percent.toFixed(1)}%</text>`;
 }).join("") || '<text x="24" y="120" fill="#6B625B" font-size="14">No public language data yet</text>';
 fs.mkdirSync(output, { recursive: true });
-fs.writeFileSync(path.join(output, "github-stats.svg"), card(`${username}'s GitHub Stats`, "Repositories owned by this account", stats));
+fs.writeFileSync(path.join(output, "github-stats.svg"), card("Celyn's GitHub Stats", "Repositories owned by this account", stats));
 fs.writeFileSync(path.join(output, "github-languages.svg"), card("Most Used Languages", "Top 6 · share of code bytes in public non-fork repositories", langBody));
 console.log(`Generated stats for ${repos.length} public repositories and ${languages.size} languages`);
