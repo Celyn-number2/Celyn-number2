@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=D97757&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+AI-assisted+products+people+can+use;MusiCue+FM+%C2%B7+ContextVocab+%C2%B7+Firefly+Hub;TypeScript+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+local-first+systems;Writing+at+celyn-blog.xyz" alt="Celyn's projects and technical focus" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Celyn-number2&amp;color=D97757&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Celyn-number2.Celyn-number2&amp;left_text=Profile%20views&amp;left_color=%23141413&amp;right_color=%23D97757" alt="Profile views" />
 
 <p><i>I don't just explore what AI can do. I turn it into products people can use.</i></p>
 
