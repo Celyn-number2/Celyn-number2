@@ -92,15 +92,15 @@
 ## Contribution Journey
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Celyn-number2/HP-Patience/output/github-contribution-grid-snake-dark.svg?v=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Celyn-number2/HP-Patience/output/github-contribution-grid-snake.svg?v=1" />
-  <img src="https://raw.githubusercontent.com/Celyn-number2/HP-Patience/output/github-contribution-grid-snake.svg?v=1" alt="Animated contribution graph showing Celyn's GitHub activity" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Celyn-number2/Celyn-number2/output/github-contribution-grid-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Celyn-number2/Celyn-number2/output/github-contribution-grid-snake.svg?v=1" />
+  <img src="https://raw.githubusercontent.com/Celyn-number2/Celyn-number2/output/github-contribution-grid-snake.svg?v=1" alt="Animated contribution graph showing Celyn's GitHub activity" />
 </picture>
 
 ## Activity Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Celyn-number2/HP-Patience/output/github-activity-graph.svg?v=1" alt="Celyn's GitHub activity graph" />
+  <img src="https://raw.githubusercontent.com/Celyn-number2/Celyn-number2/output/github-activity-graph.svg?v=1" alt="Celyn's GitHub activity graph" />
 </p>
 
 ## Featured Projects
