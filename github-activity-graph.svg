@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-labelledby="title desc">
+<title id="title">Celyn's GitHub activity</title>
+<desc id="desc">Daily GitHub contributions over the last 31 days.</desc>
+<rect width="900" height="280" rx="8" fill="#F0EEE6" />
+<text x="32" y="38" fill="#D97757" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Celyn's GitHub Activity</text>
+<text x="868" y="38" text-anchor="end" fill="#6B625B" font-family="Segoe UI, Arial, sans-serif" font-size="15">5 contributions · last 31 days</text>
+<g stroke="#D8D3C8" stroke-width="1" fill="#6B625B" font-family="Segoe UI, Arial, sans-serif" font-size="12">
+<line x1="58" y1="68" x2="874" y2="68" />
+<text x="46" y="73" text-anchor="end">5</text>
+<line x1="58" y1="119.33333333333334" x2="874" y2="119.33333333333334" />
+<text x="46" y="124.33333333333334" text-anchor="end">3</text>
+<line x1="58" y1="170.66666666666669" x2="874" y2="170.66666666666669" />
+<text x="46" y="175.66666666666669" text-anchor="end">2</text>
+<line x1="58" y1="222" x2="874" y2="222" />
+<text x="46" y="227" text-anchor="end">0</text>
+</g>
+<path d="M 58 222 L 58.0,222.0 L 85.2,222.0 L 112.4,222.0 L 139.6,222.0 L 166.8,222.0 L 194.0,222.0 L 221.2,222.0 L 248.4,222.0 L 275.6,222.0 L 302.8,222.0 L 330.0,68.0 L 357.2,222.0 L 384.4,222.0 L 411.6,222.0 L 438.8,222.0 L 466.0,222.0 L 493.2,222.0 L 520.4,222.0 L 547.6,222.0 L 574.8,222.0 L 602.0,222.0 L 629.2,222.0 L 656.4,222.0 L 683.6,222.0 L 710.8,222.0 L 738.0,222.0 L 765.2,222.0 L 792.4,222.0 L 819.6,222.0 L 846.8,222.0 L 874.0,222.0 L 874 222 Z" fill="#E3DACC" opacity="0.72" />
+<polyline points="58.0,222.0 85.2,222.0 112.4,222.0 139.6,222.0 166.8,222.0 194.0,222.0 221.2,222.0 248.4,222.0 275.6,222.0 302.8,222.0 330.0,68.0 357.2,222.0 384.4,222.0 411.6,222.0 438.8,222.0 466.0,222.0 493.2,222.0 520.4,222.0 547.6,222.0 574.8,222.0 602.0,222.0 629.2,222.0 656.4,222.0 683.6,222.0 710.8,222.0 738.0,222.0 765.2,222.0 792.4,222.0 819.6,222.0 846.8,222.0 874.0,222.0" fill="none" stroke="#D97757" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<g fill="#D97757" stroke="#F0EEE6" stroke-width="2"><circle cx="58" cy="222" r="4"><title>2026-10-02: 0 contributions</title></circle>
+<circle cx="85.2" cy="222" r="4"><title>2026-10-03: 0 contributions</title></circle>
+<circle cx="112.4" cy="222" r="4"><title>2026-10-04: 0 contributions</title></circle>
+<circle cx="139.6" cy="222" r="4"><title>2026-10-05: 0 contributions</title></circle>
+<circle cx="166.8" cy="222" r="4"><title>2026-10-06: 0 contributions</title></circle>
+<circle cx="194" cy="222" r="4"><title>2026-10-07: 0 contributions</title></circle>
+<circle cx="221.2" cy="222" r="4"><title>2026-10-08: 0 contributions</title></circle>
+<circle cx="248.4" cy="222" r="4"><title>2026-10-09: 0 contributions</title></circle>
+<circle cx="275.6" cy="222" r="4"><title>2026-10-10: 0 contributions</title></circle>
+<circle cx="302.8" cy="222" r="4"><title>2026-10-11: 0 contributions</title></circle>
+<circle cx="330" cy="68" r="4"><title>2026-10-12: 5 contributions</title></circle>
+<circle cx="357.2" cy="222" r="4"><title>2026-10-13: 0 contributions</title></circle>
+<circle cx="384.4" cy="222" r="4"><title>2026-10-14: 0 contributions</title></circle>
+<circle cx="411.6" cy="222" r="4"><title>2026-10-15: 0 contributions</title></circle>
+<circle cx="438.8" cy="222" r="4"><title>2026-10-16: 0 contributions</title></circle>
+<circle cx="466" cy="222" r="4"><title>2026-10-17: 0 contributions</title></circle>
+<circle cx="493.2" cy="222" r="4"><title>2026-10-18: 0 contributions</title></circle>
+<circle cx="520.4" cy="222" r="4"><title>2026-10-19: 0 contributions</title></circle>
+<circle cx="547.6" cy="222" r="4"><title>2026-10-20: 0 contributions</title></circle>
+<circle cx="574.8" cy="222" r="4"><title>2026-10-21: 0 contributions</title></circle>
+<circle cx="602" cy="222" r="4"><title>2026-10-22: 0 contributions</title></circle>
+<circle cx="629.2" cy="222" r="4"><title>2026-10-23: 0 contributions</title></circle>
+<circle cx="656.4" cy="222" r="4"><title>2026-10-24: 0 contributions</title></circle>
+<circle cx="683.6" cy="222" r="4"><title>2026-10-25: 0 contributions</title></circle>
+<circle cx="710.8" cy="222" r="4"><title>2026-10-26: 0 contributions</title></circle>
+<circle cx="738" cy="222" r="4"><title>2026-10-27: 0 contributions</title></circle>
+<circle cx="765.2" cy="222" r="4"><title>2026-10-28: 0 contributions</title></circle>
+<circle cx="792.4" cy="222" r="4"><title>2026-10-29: 0 contributions</title></circle>
+<circle cx="819.6" cy="222" r="4"><title>2026-10-30: 0 contributions</title></circle>
+<circle cx="846.8" cy="222" r="4"><title>2026-10-31: 0 contributions</title></circle>
+<circle cx="874" cy="222" r="4"><title>2026-11-01: 0 contributions</title></circle></g>
+<g fill="#6B625B" font-family="Segoe UI, Arial, sans-serif" font-size="12"><text x="58" y="256" text-anchor="middle">Oct 2</text>
+<text x="194" y="256" text-anchor="middle">Oct 7</text>
+<text x="330" y="256" text-anchor="middle">Oct 12</text>
+<text x="466" y="256" text-anchor="middle">Oct 17</text>
+<text x="602" y="256" text-anchor="middle">Oct 22</text>
+<text x="738" y="256" text-anchor="middle">Oct 27</text>
+<text x="874" y="256" text-anchor="middle">Nov 1</text></g>
+</svg>
